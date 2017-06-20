@@ -1,0 +1,6 @@
+c:\users\kriscool\documents\visual studio 2015\Projects\Zad3DotNet\Zad3DotNet\bin\Debug\Zad3DotNet.exe.config
+C:\Users\kriscool\documents\visual studio 2015\Projects\Zad3DotNet\Zad3DotNet\bin\Debug\Zad3DotNet.exe
+C:\Users\kriscool\documents\visual studio 2015\Projects\Zad3DotNet\Zad3DotNet\bin\Debug\Zad3DotNet.pdb
+C:\Users\kriscool\documents\visual studio 2015\Projects\Zad3DotNet\Zad3DotNet\obj\Debug\Zad3DotNet.csprojResolveAssemblyReference.cache
+C:\Users\kriscool\documents\visual studio 2015\Projects\Zad3DotNet\Zad3DotNet\obj\Debug\Zad3DotNet.exe
+C:\Users\kriscool\documents\visual studio 2015\Projects\Zad3DotNet\Zad3DotNet\obj\Debug\Zad3DotNet.pdb
